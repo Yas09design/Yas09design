@@ -15,11 +15,11 @@
 
 &nbsp;
 
-<h3>🚀 Formação & Especialização</h3>
+<h3>🚀 Formação Principal e Especializações de Interesse</h3>
 
 &nbsp;
-- 📚 Cursando Gestão da Tecnologia da Informação
-- 🧪 Especialização em Tester de Software e Quality Assurance (QA)
+- 📚 Tecnologia em Gestão da Tecnologia da Informação
+- 🧪 Especialização em Tester de Software
 - 🛠️ Estudos em automação de testes e garantia de qualidade
 
 &nbsp;
@@ -36,7 +36,7 @@
 </div>
 &nbsp;
 
-<h3>🔍 Áreas de Interesse & Habilidades</h3>
+<h3>🔍 Áreas de Interesse e Habilidades</h3>
 &nbsp;
 
 🔄 Metodologias Ágeis: Scrum e Kanban para gestão de projetos dinâmicos.
