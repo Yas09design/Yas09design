@@ -21,6 +21,8 @@
 - 📚 Cursando Gestão da Tecnologia da Informação
 - 🧪 Especialização em Tester de Software e Quality Assurance (QA)
 - 🛠️ Estudos em automação de testes e garantia de qualidade
+
+&nbsp;
 <h3>💡 Conhecimentos Técnicos</h3>
 
 &nbsp;
@@ -32,10 +34,10 @@
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
-
 &nbsp;
 
 <h3>🔍 Áreas de Interesse & Habilidades</h3>
+&nbsp;
 
 🔄 Metodologias Ágeis: Scrum e Kanban para gestão de projetos dinâmicos.
 
@@ -44,7 +46,6 @@
 🗄️ Banco de Dados: Modelagem e gerenciamento de dados relacionais.
 
 🎯 Processos de Qualidade: Foco no resultado para entregar um software de excelência.
-
 
 &nbsp;
 <div align="center">
@@ -82,8 +83,10 @@
 
 
 &nbsp;
+
 <h2 align="center">📫 Entre em Contato</h2>
 &nbsp;
+
 <div align="center">
   <a href="mailto:arianne.ferreira2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -95,11 +98,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yas09design&color=green" alt="Profile views" />
-</div>
-
 <div align="center">
   <img src="https://github.com/Yas09design/Yas09design/blob/main/qa-animation.svg" width="100%" height="150">
 </div>
