@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <h2 align="center">👩‍💻</h2>
-</p> Sou uma profissional em transição de carreira, movida pela paixão por soluções inteligentes, em busca de oportunidades para aplicar minha dedicação e meu rápido aprendizado em desafios na área de tecnologia, contribuindo para a construção de produtos incríveis.
+</p> Sou uma profissional em transição de carreira, movida pela paixão por soluções inteligentes, sigo oportunizando em projetos acadêmicos, com anseio em contribuir com meu rápido aprendizado em desafios na área de tecnologia.
 
 
 &nbsp;
