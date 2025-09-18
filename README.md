@@ -74,13 +74,6 @@
     </tr>
   </table>
 </div>
-&nbsp;
-
-<h2 align="center">📊 GitHub Stats </h2>
-
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yas09design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yas09design&layout=compact&langs_count=16&theme=tokyonight"/>
-
 
 &nbsp;
 
