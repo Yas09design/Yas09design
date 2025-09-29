@@ -1,8 +1,8 @@
 <p align="center">
   
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Yasmin!+👋](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B)"/>
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Yasmin!+👋](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&color=FF77B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B)"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B;QA+%26+Test+Automation+Specialist;Software+Quality+Enthusiast;Transformando+bugs+em+melhorias!" alt="Typing SVG" />
+  <img height="70em" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&color=FF77B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B;Automation+Specialist;Metodologias+Agéis;Automatizando+Soluções" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://github.com/Yas09design/Yas09design/blob/main/qa-banner.gif" width="700px" />
@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <h2 align="center">👩‍💻</h2>
-</p> Sou uma profissional em transição de carreira, movida pela paixão por soluções inteligentes, sigo oportunizando em projetos acadêmicos, com anseio em contribuir com meu rápido aprendizado em desafios na área de tecnologia.
+</p> Sou uma profissional em expansão de carreira, movida pela paixão por soluções inteligentes, sigo oportunizando em projetos acadêmicos, com anseio em contribuir com meu rápido aprendizado em desafios na área de tecnologia.
 
 
 &nbsp;
@@ -18,9 +18,10 @@
 <h3>🚀 Formação Principal e Especializações de Interesse</h3>
 
 &nbsp;
-- 📚 Tecnologia em Gestão da Tecnologia da Informação
-- 🧪 Especialização em Tester de Software
-- 🛠️ Estudos em automação de testes e garantia de qualidade
+-  Gestão da Tecnologia da Informação
+-  Análise de Dados
+-  N8N / Maker / Zapier / Trello 
+-  Estudos em automação de processos / Metodologias Agéis
 
 &nbsp;
 <h3>💡 Conhecimentos Técnicos</h3>
