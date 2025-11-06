@@ -48,26 +48,12 @@
 &nbsp;
 <div align="center">
   <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Testes%20Funcionais-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Automação%20de%20Testes-FF6C37?style=for-the-badge&logo=selenium&logoColor=white">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/-Metodologias%20Ágeis-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-      </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Testes%20de%20API-009688?style=for-the-badge&logo=postman&logoColor=white">
-      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Gestão%20de%20Qualidade-A81D33?style=for-the-badge&logo=redhat&logoColor=white">
       </td>
     </tr>
   </table>
