@@ -39,7 +39,7 @@
 
 🔄 Metodologias Ágeis: Scrum e Kanban para gestão de projetos dinâmicos.
 
-🤖 Automação: N8N para automação de tarefas.
+🎨 Design de Sistemas: Criação de interfaces escaláveis e modulares (Design System), garantindo que a experiência visual esteja tecnicamente alinhada à arquitetura de dados e à performance do software.
 
 🗄️ Banco de Dados: Modelagem e gerenciamento de dados relacionais.
 
