@@ -2,7 +2,7 @@
   
 <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Yasmin!+👋](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&color=FF77B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B)"/>
 <p align="center">
-  <img height="70em" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&color=FF77B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B;Analytics+Specialist;Desenvolvendo...;Automatizando+Soluções" alt="Typing SVG" />
+  <img height="70em" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&color=FF77B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Yasmin!+%F0%9F%91%8B;Personal+Branding;Desenvolvendo...;Automatizando+Soluções" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://github.com/Yas09design/Yas09design/blob/main/qa-banner.gif" width="700px" />
